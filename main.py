@@ -1,7 +1,8 @@
-import  add, sub
+import  sum
+import sub
 
 
-print(add.add())
+print(sum.sum())
 print(sub.sub())
 
 
